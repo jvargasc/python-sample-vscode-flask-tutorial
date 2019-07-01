@@ -1,7 +1,7 @@
 | Stage | Status |
 |---------|--------------|
 | Build | <img src="https://dev.azure.com/jvargasc/pipelines-python/_apis/build/status/jvargasc.python-sample-vscode-flask-tutorial?branchName=master"> |
-| Deployment | <img src="https://vsrm.dev.azure.com/jvargasc/_apis/public/Release/badge/8018dd85-df88-4e2d-ba03-6fa83254d867/1/1"> |
+| Deployment | <img src="https://vsrm.dev.azure.com/jvargasc/_apis/public/Release/badge/8018dd85-df88-4e2d-ba03-6fa83254d867/2/2"> |
 
 # Python/Flask tutorial sample for Visual Studio Code
 
